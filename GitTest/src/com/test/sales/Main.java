@@ -13,5 +13,6 @@ public class Main {
 		System.out.println("This shows sales data");
 		
 		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 }
